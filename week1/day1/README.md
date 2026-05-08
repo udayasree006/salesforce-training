@@ -72,4 +72,10 @@ A lead is a new customer enquiry. After communication, it becomes a contact. If 
 
 ## Screenshots
 
-(Add screenshots here)
+<img width="1918" height="909" alt="Screenshot 2026-05-08 200127" src="https://github.com/user-attachments/assets/2b04efd9-6776-49b6-b2c4-3f2144565c94" />
+<img width="1900" height="913" alt="Screenshot 2026-05-08 190833" src="https://github.com/user-attachments/assets/5010398b-fd3c-4a4a-9b77-474fc09c3591" />
+
+<img width="1911" height="901" alt="Screenshot 2026-05-08 192658" src="https://github.com/user-attachments/assets/ce111e97-21f6-43da-a85d-9ed90ef464ec" />
+<img width="1919" height="921" alt="Screenshot 2026-05-08 192731" src="https://github.com/user-attachments/assets/f3fcc249-099e-4e44-b18c-4fd256680a6c" />
+<img width="1909" height="911" alt="Screenshot 2026-05-08 192816" src="https://github.com/user-attachments/assets/04d199fd-30d3-4685-b12c-cbb145e87c7b" />
+
